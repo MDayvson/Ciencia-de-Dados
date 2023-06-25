@@ -2,5 +2,6 @@ assistir aula #F255
 
 iniciar aula 247 novamente para estudo
 
+
 bases de dados para praticar
 https://www.kaggle.com/
