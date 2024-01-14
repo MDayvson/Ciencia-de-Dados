@@ -1,4 +1,8 @@
-assistir aula #F257
+assistir aula #F259
 
 bases de dados para praticar
 https://www.kaggle.com/
+
+
+
+Exercicio na aula 257
